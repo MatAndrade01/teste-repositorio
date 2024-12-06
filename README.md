@@ -9,3 +9,5 @@
 * usando o push
 
 * comando git pull
+
+* comando git fetch
