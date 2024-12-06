@@ -6,4 +6,4 @@
 
 * comando git push
 
-* usando o pus
+* usando o push
