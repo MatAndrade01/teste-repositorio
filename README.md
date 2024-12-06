@@ -7,3 +7,5 @@
 * comando git push
 
 * usando o push
+
+* comando git pull
