@@ -5,3 +5,5 @@
 * uso do comando git restore
 
 * comando git push
+
+* usando o pus
